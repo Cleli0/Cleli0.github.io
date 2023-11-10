@@ -15,3 +15,10 @@ h1, h2, h3, h4, h5, h6 {
 p {
     margin-bottom: 1rem;
 }
+
+/* Styles pour l'en-tête */
+header {
+    background-color: #646464;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+}
